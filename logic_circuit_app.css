@@ -1,0 +1,151 @@
+.container {
+    position: relative;
+    width: 200%;
+    height: 1000px;
+    background-color: black;
+}
+
+.side_bar {
+    position: fixed;
+    width: 100px;
+    height: 100%;
+    background-color: white;
+    top: 0;
+    left: 0;
+    z-index: 100001;
+}
+
+.sidebar_item {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    filter: invert(100%);
+}
+
+.button_item {
+    user-select: none;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+
+.led_item {
+    user-select: none;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+
+.gate {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+
+.notGate {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+
+.button {
+    width: 40px;
+    height: 40px;
+    top: 20px;
+    left: 30px;
+}
+
+.button_off {
+    background-image: url(button_off.png);
+}
+
+.button_on {
+    background-image: url(button_on.png);
+}
+
+.led {
+    width: 40px;
+    height: 40px;
+    top: 20px;
+    left: 30px;
+    z-index: 10000;
+}
+
+.led_off {
+    background-image: url(led_off.png);
+}
+
+.led_on {
+    background-image: url(led_on.png);
+}
+
+.not_gate {
+    width: 37px;
+    height: 35px;
+    top: 20px;
+    left: 30px;
+    background-image: url(not_gate.svg);
+}
+
+.and_gate {
+    width: 50px;
+    height: 40px;
+    top: 20px;
+    left: 30px;
+    background-image: url(and_gate.svg);
+}
+
+.or_gate {
+    width: 50px;
+    height: 40px;
+    top: 20px;
+    left: 30px;
+    background-image: url(or_gate.svg);
+}
+
+.nand_gate {
+    width: 50px;
+    height: 40px;
+    top: 20px;
+    left: 30px;
+    background-image: url(nand_gate.svg);
+}
+
+.nor_gate {
+    width: 50px;
+    height: 40px;
+    top: 20px;
+    left: 30px;
+    background-image: url(nor_gate.svg);
+}
+
+.xor_gate {
+    width: 50px;
+    height: 40px;
+    top: 20px;
+    left: 30px;
+    background-image: url(exor_gate.svg);
+}
+
+.xline {
+    position: absolute;
+    height: 1px;
+    z-index: 10005;
+    visibility: hidden;
+    cursor: pointer;
+}
+
+.yline {
+    position: absolute;
+    width: 1px;
+    z-index: 10005;
+    visibility: hidden;
+    cursor: pointer;
+}
+
+.power_on {
+    background-color: gold;
+}
+
+.power_off {
+    background-color: white;
+}

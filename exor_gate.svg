@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="123.49038mm"
+   height="80.000572mm"
+   viewBox="0 0 123.49038 80.000572"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="論理素子.svg"
+   inkscape:export-filename="not_gate.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#646464"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.97764853"
+     inkscape:cx="192.29815"
+     inkscape:cy="298.67584"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showborder="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer_or"
+     style="display:none"
+     transform="translate(23.491)">
+    <circle
+       style="display:none;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path29567"
+       cx="80"
+       cy="80"
+       r="79.5" />
+    <circle
+       style="display:none;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path29567-2"
+       cx="80"
+       cy="160"
+       r="79.5" />
+    <path
+       id="path29567-0"
+       style="display:none;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 69.270493,0.5 A 79.5,79.5 0 0 0 0.57856745,39.999915 79.5,79.5 0 0 0 69.270493,79.500343 79.5,79.5 0 0 0 137.96501,39.996298 79.5,79.5 0 0 0 69.270493,0.5 Z" />
+    <path
+       id="path29567-0-4"
+       style="display:none;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M -38.044,0.50000065 V 79.49983 h 68.273869 v -0.01499 a 79.5,79.5 0 0 0 0.49661,0.0155 79.5,79.5 0 0 0 68.694513,-39.504049 79.5,79.5 0 0 0 -68.694513,-39.49629735 79.5,79.5 0 0 0 -0.49661,0.0155029 v -0.0155029 z" />
+    <circle
+       style="display:none;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path29710"
+       cx="-80"
+       cy="40"
+       r="79.5" />
+    <path
+       id="path29567-0-4-0"
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -11.010181,0.50022786 A 79.5,79.5 0 0 1 -0.50022786,40.000142 79.5,79.5 0 0 1 -11.04377,79.500057 h 41.273449 v -0.01499 a 79.5,79.5 0 0 0 0.496611,0.0155 A 79.5,79.5 0 0 0 99.420805,39.996525 79.5,79.5 0 0 0 30.72629,0.50022786 79.5,79.5 0 0 0 30.229679,0.51573079 v -0.0155029 z"
+       inkscape:export-filename="or_gate.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <title
+         id="title29757">OR回路</title>
+    </path>
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+       id="path3336-8"
+       cx="107"
+       cy="40"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g3935"
+     inkscape:label="Layer_xor"
+     style="display:inline"
+     transform="translate(23.491)">
+    <circle
+       style="display:none;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="circle3919"
+       cx="80"
+       cy="80"
+       r="79.5" />
+    <circle
+       style="display:none;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="circle3921"
+       cx="80"
+       cy="160"
+       r="79.5" />
+    <path
+       id="path3923"
+       style="display:none;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 69.270493,0.5 A 79.5,79.5 0 0 0 0.57856745,39.999915 79.5,79.5 0 0 0 69.270493,79.500343 79.5,79.5 0 0 0 137.96501,39.996298 79.5,79.5 0 0 0 69.270493,0.5 Z" />
+    <path
+       id="path3925"
+       style="display:none;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M -38.044,0.50000065 V 79.49983 h 68.273869 v -0.01499 a 79.5,79.5 0 0 0 0.49661,0.0155 79.5,79.5 0 0 0 68.694513,-39.504049 79.5,79.5 0 0 0 -68.694513,-39.49629735 79.5,79.5 0 0 0 -0.49661,0.0155029 v -0.0155029 z" />
+    <circle
+       style="display:none;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="circle3927"
+       cx="-80"
+       cy="40"
+       r="79.5" />
+    <path
+       id="path3931"
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -11.010181,0.50022786 A 79.5,79.5 0 0 1 -0.50022786,40.000142 79.5,79.5 0 0 1 -11.04377,79.500057 h 41.273449 v -0.01499 a 79.5,79.5 0 0 0 0.496611,0.0155 A 79.5,79.5 0 0 0 99.420805,39.996525 79.5,79.5 0 0 0 30.72629,0.50022786 79.5,79.5 0 0 0 30.229679,0.51573079 v -0.0155029 z"
+       inkscape:export-filename="or_gate.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <title
+         id="title3929">OR回路</title>
+    </path>
+    <circle
+       style="display:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+       id="circle3933"
+       cx="107"
+       cy="40"
+       r="7.5" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3927-2"
+       sodipodi:type="arc"
+       sodipodi:cx="-91.907005"
+       sodipodi:cy="40"
+       sodipodi:rx="79.5"
+       sodipodi:ry="79.5"
+       sodipodi:start="5.7595865"
+       sodipodi:end="0.52359878"
+       sodipodi:arc-type="arc"
+       d="M -23.057987,0.24999783 A 79.5,79.5 0 0 1 -23.057986,79.75"
+       sodipodi:open="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer_and"
+     style="display:none"
+     transform="translate(23.491)">
+    <circle
+       style="display:none;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="path1082"
+       cx="60"
+       cy="40"
+       r="39.5" />
+    <rect
+       style="display:none;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="rect2488"
+       width="59"
+       height="79"
+       x="0.5"
+       y="0.5" />
+    <path
+       id="path1082-8-5"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+       d="M 0.5,0.50000002 V 79.499833 h 59.000019 v -0.0186 a 39.5,39.5 0 0 0 0.49971,0.0186 39.5,39.5 0 0 0 39.49991,-39.49992 39.5,39.5 0 0 0 -39.49991,-39.49991298 39.5,39.5 0 0 0 -0.49971,0.0186 v -0.0186 z" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+       id="path3336"
+       cx="107"
+       cy="40"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer not"
+     style="display:none"
+     transform="translate(23.491)">
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.968582;stroke-opacity:1"
+       id="path3842"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="10.716495"
+       sodipodi:cy="19.136599"
+       sodipodi:r1="38.175953"
+       sodipodi:r2="19.087978"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 48.892447,19.136599 -57.2639289,33.061345 0,-66.12269 z"
+       inkscape:transform-center-x="-9.8535016"
+       transform="matrix(1.0324302,0,0,1.0324434,9.1429674,15.242543)" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-opacity:1"
+       id="path3336-4"
+       cx="67.621002"
+       cy="35"
+       r="7.5" />
+  </g>
+</svg>
